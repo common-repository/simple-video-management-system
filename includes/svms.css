@@ -1,0 +1,339 @@
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
+
+.field_width{
+    width: 100%;
+}
+.form_outer_msg{
+    width: 500px;
+    float: left;
+    margin: auto;
+}
+.form_outer{
+    width: 100%;
+    float: left;
+}
+.form_left{
+    width: 60%;
+    float: left;
+    height: auto;
+}
+.form_right{
+    width: 37%;
+    float: left;
+    height: auto;
+}
+.red_btn{
+       background-color: #f00;
+    border: medium none;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+}
+.box .box-body {
+    border-radius: 0 0 3px 3px;
+    padding: 10px;
+}
+.callout.callout-info {
+    background-color: #f0f7fd;
+    border-color: #d0e3f0;
+}
+.callout {
+    border-left: 5px solid #eee;
+    margin: 0 0 20px;
+    padding: 15px 30px 15px 15px;
+}
+.callout.callout-info h4 {
+    color: #3a87ad;
+}
+.callout h4 {
+    margin-top: 0;
+}
+.small-box {
+    border-radius: 2px;
+    display: block;
+    margin-bottom: 15px;
+    position: relative;
+}
+.small-box h3 {
+    font-size: 38px;
+    font-weight: bold;
+    margin: 0 0 10px;
+    padding: 0;
+    white-space: nowrap;
+}
+.callout.callout-warning {
+    background-color: #fefbed;
+    border-color: #f1e7bc;
+}
+.callout {
+    border-left: 5px solid #eee;
+    margin: 0 0 20px;
+    padding: 15px 30px 15px 15px;
+}
+.callout.callout-warning h4 {
+    color: #c09853;
+}
+.callout h4 {
+    margin-top: 0;
+}
+.vidphenom-dashboard-tile-d.detail {
+    overflow: hidden;
+    position: relative;
+}
+.vidphenom-dashboard-tile-d.tile-red {
+    background-color: #e84c3d;
+    color: #fff;
+}
+.vidphenom-dashboard-tile-d {
+    background-color: #fff;
+    border-radius: 3px;
+    color: #555;
+    margin-bottom: 15px;
+    padding: 10px !important;
+}
+.vidphenom-dashboard-tile-d.detail .content_d {
+    background: transparent none repeat scroll 0 0;
+    display: inline-block;
+    padding: 10px 10px 13px;
+    position: relative;
+    z-index: 5;
+}
+#main-content .vidphenom-dashboard-tile-d .content_d h1 {
+    font-size: 40px;
+    font-weight: 300;
+    margin: 0;
+    padding: 8px;
+}
+.vid-phenom-text-left {
+    text-align: center;
+    color:#fff;
+}
+.vidphenom-dashboard-tile-d .content_d p {
+    clear: both;
+    font-size: 14px;
+    margin-bottom: 0;
+    padding: 10px;
+}
+.vidphenom-dashboard-tile-d.detail .vid-phenom-icon {
+    bottom: 9px;
+    display: block;
+    float: right;
+    height: 80px;
+    margin-bottom: 10px;
+    padding-left: 15px;
+    padding-top: 10px;
+    right: 40px;
+    width: 25%;
+}
+.vidphenom-dashboard-tile-d.detail .vid-phenom-icon i {
+    color: rgba(0, 0, 0, 0.05);
+    font-size: 55px;
+    line-height: 65px;
+}
+.vidphenom-dashboard-tile-d.tile-turquoise {
+    background-color: #1abc9c;
+    color: #fff;
+}
+.vidphenom-dashboard-tile-d.tile-blue {
+    background-color: #3598db;
+    color: #fff;
+}
+.vidphenom-dashboard-tile-d.tile-purple {
+    background-color: #9a59b5;
+    color: #fff;
+}
+.postbox .hndle, .stuffbox .hndle{
+    padding-bottom: 12px;
+    padding-left: 3px;
+}
+#uopm_success{
+     color: black;
+    font-size: 16px;
+    height: 47px;
+    
+    text-align: center;
+    top: 0;
+    width: 100%;
+}
+.succ_green{
+    background: #d8f5cb none repeat scroll 0 0;
+     border: 1px solid #cedeb6;
+}
+.succ_red{
+    background: #f7c8bc none repeat scroll 0 0;
+     border: 1px solid #f7c8bc;
+}
+.tab-content >h1{
+    font-family: calibri !important;
+}
+.myButtonred {
+	-moz-box-shadow:inset 0px -3px 7px 0px #8a2a21;
+	-webkit-box-shadow:inset 0px -3px 7px 0px #8a2a21;
+	box-shadow:inset 0px -3px 7px 0px #8a2a21;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #eb3221), color-stop(1, #f28c85));
+	background:-moz-linear-gradient(top, #eb3221 5%, #f28c85 100%);
+	background:-webkit-linear-gradient(top, #eb3221 5%, #f28c85 100%);
+	background:-o-linear-gradient(top, #eb3221 5%, #f28c85 100%);
+	background:-ms-linear-gradient(top, #eb3221 5%, #f28c85 100%);
+	background:linear-gradient(to bottom, #eb3221 5%, #f28c85 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#eb3221', endColorstr='#f28c85',GradientType=0);
+	background-color:#eb3221;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:1px solid #c25b54;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+	padding:9px 23px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #810e05;
+}
+.myButtonred:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f28c85), color-stop(1, #eb3221));
+	background:-moz-linear-gradient(top, #f28c85 5%, #eb3221 100%);
+	background:-webkit-linear-gradient(top, #f28c85 5%, #eb3221 100%);
+	background:-o-linear-gradient(top, #f28c85 5%, #eb3221 100%);
+	background:-ms-linear-gradient(top, #f28c85 5%, #eb3221 100%);
+	background:linear-gradient(to bottom, #f28c85 5%, #eb3221 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f28c85', endColorstr='#eb3221',GradientType=0);
+	background-color:#f28c85;
+}
+.myButtonred:active {
+	position:relative;
+	top:1px;
+}
+.btnBlue{
+    background-color:#001847;
+    color:#fff;
+    border-radius:3px;
+	border:1px solid #001847;
+	display:inline-block;
+	cursor:pointer;
+	color:#fff;
+	font-family:Arial;
+	font-size:15px;
+	padding:9px 13px;
+	text-decoration:none;
+}
+.btnBlue > .fa{
+    color:#33466C !important;
+}
+.vidphenom-dashboard-tile-d.blueclr{
+    background-color: #0073AA !important; /*#001847 !important;*/
+    color:#fff;
+}
+.blueclr .vid-phenom-icon > .fa{
+    color:#33466C !important;
+    -ms-transform: rotate(-6deg); /* IE 9 */
+    -webkit-transform: rotate(-6deg); /* Chrome, Safari, Opera */
+      transform: rotate(-6deg);
+}
+
+.blueclr .content_d span{
+    font-size: 15px;
+}
+.uop_line_undr{
+    width: 55%;
+    height: 2px;
+    background-color:#F10021;
+    margin: auto;
+    margin-bottom: 4%;
+}
+
+.dashboard-tile.detail .content_d{
+    width: 56%;
+    float: left;
+    text-align: center;
+}
+
+/* Grid Shortcode */
+/* Generic Styling, for Desktops/Laptops */
+table { 
+    width: 100%; 
+    border-collapse: collapse; 
+  }
+  /* Zebra striping */
+  th { 
+    background: #333; 
+    font-weight: bold; 
+    text-align: left !important;
+  }
+  td, th { 
+    padding: 6px;  
+    text-align: left; 
+  }
+  .connected_sortable {
+      width: 95%;
+      border: 1px solid #BBB;
+      min-height: 300px;
+      padding: 5px;
+      background-color: #EEE;
+      height: 300px;
+      overflow-y: scroll;
+  }
+  .connected_sortable li {
+      height: 1.5em;
+      line-height: 1.2em;
+      padding: 3px 5px;
+      margin-bottom: 3px;
+      border: 1px solid #BBB;
+      cursor: move;
+      background-color: #FFF;
+      border-radius: 3px;
+  }
+  .connected_sortable li.highlight {
+      line-height: 1.2em;
+      border: 1px dashed #BBB;
+  }
+  @media only screen and (max-width: 760px),(min-device-width: 768px) and (max-device-width: 950px)  {
+      /* Force table to not be like tables anymore */
+      table, thead, tbody, th, td, tr { 
+          display: block; 
+      }
+      .connected_sortable {
+         width: 60%;
+      }
+      /* Hide table headers (but not display: none;, for accessibility) */
+      thead tr { 
+          position: absolute;
+          top: -9999px;
+          left: -9999px;
+      }
+      td { 
+          /* Behave  like a "row" */
+          border: none;
+          border-bottom: 1px solid #eee; 
+          position: relative;
+          /*padding-left: 50%; */
+      }
+      td:before { 
+          /* Now like a table header */
+          position: absolute;
+          /* Top/left values mimic padding */
+          top: 6px;
+          left: 6px;
+          width: 45%; 
+          padding-right: 10px; 
+          white-space: nowrap;
+      }
+      /*
+      Label the data
+      */
+      /*td:nth-of-type(1):before { content: "First Name"; }
+      td:nth-of-type(2):before { content: "Last Name"; }*/
+  }
+
+/* file Read Style */
+.np-notepad .np-changelog ul{
+    /*list-style: inherit !important; */
+    margin-left: 15px !important;
+}
+.np-notepad .np-changelog ul li{
+    background-image: url('line.png');
+    background-repeat: no-repeat;
+    padding-left: 18px;
+}
